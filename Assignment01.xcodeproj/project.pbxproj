@@ -16,6 +16,7 @@
 		3820E8A928F6454400C82D7E /* Assignment01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3820E8A828F6454400C82D7E /* Assignment01Tests.swift */; };
 		3820E8B328F6454400C82D7E /* Assignment01UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3820E8B228F6454400C82D7E /* Assignment01UITests.swift */; };
 		3820E8B528F6454400C82D7E /* Assignment01UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3820E8B428F6454400C82D7E /* Assignment01UITestsLaunchTests.swift */; };
+		38A97B8828F88E29001E4135 /* InfoPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A97B8728F88E29001E4135 /* InfoPopupViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3820E8AE28F6454400C82D7E /* Assignment01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Assignment01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3820E8B228F6454400C82D7E /* Assignment01UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment01UITests.swift; sourceTree = "<group>"; };
 		3820E8B428F6454400C82D7E /* Assignment01UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment01UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		38A97B8728F88E29001E4135 /* InfoPopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPopupViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3820E89328F6454000C82D7E /* SceneDelegate.swift */,
 				3820E89528F6454000C82D7E /* ViewController.swift */,
 				3820E89728F6454000C82D7E /* Main.storyboard */,
+				38A97B8728F88E29001E4135 /* InfoPopupViewController.swift */,
 				3820E89A28F6454400C82D7E /* Assets.xcassets */,
 				3820E89C28F6454400C82D7E /* LaunchScreen.storyboard */,
 				3820E89F28F6454400C82D7E /* Info.plist */,
@@ -261,6 +264,7 @@
 				3820E89628F6454000C82D7E /* ViewController.swift in Sources */,
 				3820E89228F6454000C82D7E /* AppDelegate.swift in Sources */,
 				3820E89428F6454000C82D7E /* SceneDelegate.swift in Sources */,
+				38A97B8828F88E29001E4135 /* InfoPopupViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
